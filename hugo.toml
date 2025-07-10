@@ -1,0 +1,4 @@
+baseURL = 'https://jaredharvey.dev/'
+languageCode = 'en-us'
+title = 'Jared Harvey'
+theme = 'monochrome'
